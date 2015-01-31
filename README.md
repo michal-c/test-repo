@@ -9,3 +9,4 @@ testing markdown
 ## blockquote test
 Whatever is:
 >whatever
+>>double whatever
