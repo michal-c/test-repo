@@ -10,3 +10,17 @@ testing markdown
 Whatever is:
 >whatever
 >>double whatever
+
+##lists test
+* item
+* item
+* item
+
+- item
+- item
+- item
+
+1. item 1
+2. item 2
+3. item 3
+
