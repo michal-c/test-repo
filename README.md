@@ -15,7 +15,6 @@ Whatever is:
 * item
 * item
 * item
-
 - item
 - item
 - item
